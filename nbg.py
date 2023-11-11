@@ -1,5 +1,5 @@
 """
-(number) BaseBall Game -> bbg
+Number BaseBall Game -> nbg
 Rule: https://namu.wiki/w/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC
 """
 import random
